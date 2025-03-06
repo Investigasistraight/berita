@@ -1,1 +1,2 @@
 # berita
+# investigasi straight
